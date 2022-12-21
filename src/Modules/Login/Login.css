@@ -1,0 +1,9 @@
+.login-container {
+  background-image: url("../../Assets/background_image-login.jpg");
+  background-repeat: repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  justify-content: center;
+  display: flex;
+}
